@@ -1,0 +1,15 @@
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\bin\Debug\net6.0\ClassCopyByMemberwiseClone.exe
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\bin\Debug\net6.0\ClassCopyByMemberwiseClone.deps.json
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\bin\Debug\net6.0\ClassCopyByMemberwiseClone.runtimeconfig.json
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\bin\Debug\net6.0\ClassCopyByMemberwiseClone.dll
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\bin\Debug\net6.0\ClassCopyByMemberwiseClone.pdb
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ClassCopyByMemberwiseClone.csproj.AssemblyReference.cache
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ClassCopyByMemberwiseClone.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ClassCopyByMemberwiseClone.AssemblyInfoInputs.cache
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ClassCopyByMemberwiseClone.AssemblyInfo.cs
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ClassCopyByMemberwiseClone.csproj.CoreCompileInputs.cache
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ClassCopyByMemberwiseClone.dll
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\refint\ClassCopyByMemberwiseClone.dll
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ClassCopyByMemberwiseClone.pdb
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ClassCopyByMemberwiseClone.genruntimeconfig.cache
+D:\11.GIt\Blog\ClassCopyByMemberwiseClone\obj\Debug\net6.0\ref\ClassCopyByMemberwiseClone.dll
